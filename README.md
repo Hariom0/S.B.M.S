@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=robot+&size=18&pause=1000&vCenter=true&width=435&lines=Smart+Bunk+Management+System(S.B.M.S)+v1.0)](https://git.io/typing-svg)
+# 🎯 Smart Bunk Management System (S.B.M.S) v1.0
+
 
 S.B.M.S is a lightweight utility to calculate how many lectures a student can safely miss in each subject while maintaining the minimum attendance requirement.
 
@@ -23,6 +24,7 @@ Explore the working app here:
 
 This web version uses the same smart algorithm from this repo to calculate your bunk allowance in real-time.
 
+ <br>
 
 ## 🧮 How It Works
 
