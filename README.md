@@ -47,3 +47,8 @@ console.log(result);
   { subject: "English", allocatedBunks: 0 }
 ]
 */
+```
+
+## 👨‍💻 Author
+
+Made with 💙 by [Hariom Singh](https://github.com/hariom0)
