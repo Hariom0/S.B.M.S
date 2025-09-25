@@ -20,7 +20,7 @@ It’s built with simple logic but powerful math, designed for students who want
 ## 🌐 Live Demo
 
 Explore the working app here:  
-🔗 [Schedule Sync](https://schedulesync-8w46.onrender.com/)
+🔗 [Schedule Sync](https://www.schedulesync.site/)
 
 This web version uses the same smart algorithm from this repo to calculate your bunk allowance in real-time.
 
