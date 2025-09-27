@@ -43,7 +43,7 @@ function calculateSmartBunks(data, requiredPercentage = 0.75) {
 
 			// Distribute bunks proportionally based on buffer size
 			const distributed = safeSubjects.map(subj => {
-  				const weight = subj.maxSafeBunks / safeBunkSum; // use maxSafeBunks instead of buffer
+  				const weight = subj.maxSafeBunks / safeBunkSum; 
   				const tentative = Math.floor(weight * totalBunksAvailable);
   				const allocated = Math.min(tentative, subj.maxSafeBunks);
   				return { subject: subj.subject, allocatedBunks: allocated, maxSafeBunks: subj.maxSafeBunks };
